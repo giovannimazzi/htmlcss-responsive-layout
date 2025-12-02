@@ -37,4 +37,29 @@
 
 /* Modalità Desktop (sopra i 992px) */
 @media screen and (min-width: 992px) {
+  .recipe-title h2 {
+    font-size: 3rem;
+  }
+  .quick-notes ul {
+    display: block;
+  }
+  .recipe-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .recipe-video {
+    flex-grow: 1;
+  }
+  .social-networks .label {
+    display: inline;
+  }
+  footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  footer address {
+    text-align: left;
+  }
 }
