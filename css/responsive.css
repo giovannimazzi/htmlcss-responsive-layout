@@ -40,10 +40,6 @@
   .ads {
     display: block;
   }
-  .presentation img {
-    float: left;
-    margin-right: 20px;
-  }
 }
 
 /* Modalità Desktop (sopra i 992px) */
