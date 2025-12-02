@@ -15,7 +15,7 @@ Analizziamo bene il sito ed il markup, poi proviamo ad accontentare le richieste
 - La grandezza del titolo diventa più grande
 - Le informazioni della ricetta sotto il video si dispongono a griglia
 - I bottoni social si allargano
-  compare il banner pubblicitario
+- compare il banner pubblicitario
 - l'immagine nella descrizione della ricetta viene circondata dal testo
 
 **Modalità Desktop** (sopra i 992px)
