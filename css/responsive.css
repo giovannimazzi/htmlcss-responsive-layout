@@ -1,5 +1,16 @@
 /* Soluzione qui */
 
+/* Modalità Large Mobile (576px) */
+@media screen and (min-width: 576px) {
+  .presentation img {
+    float: left;
+    margin-right: 20px;
+  }
+  .btn {
+    flex-grow: 1;
+  }
+}
+
 /* Modalità Tablet (sopra i 768px) */
 @media screen and (min-width: 768px) {
   #topbar {
